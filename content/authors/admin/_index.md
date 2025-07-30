@@ -49,7 +49,6 @@ profiles:
 interests:
   - Information Retrieval
   - Natural Language Processing
-  - Computational Linguistics
 
 education:
   - area: Master's Degree in Computer Science
