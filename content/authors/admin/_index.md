@@ -72,8 +72,8 @@ education:
       
       Courses included:
       - Swarm Intelligence
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Convolutional Neural Networks
+      - Machine Learning
 work:
   - position: Data Scientist
     company_name: Detik Network
@@ -83,9 +83,8 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Text moderation
+      - Generative AI for journalism
   - position: Associate Data Scientist
     company_name: KG Media
     company_url: ''
@@ -94,9 +93,8 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - ML optimization for marketing
+      - Generative AI for journalism
   - position: Data Engineer Intern
     company_name: Qasir
     company_url: ''
@@ -105,9 +103,7 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Build basic data pipelines from multiple resources
   - position: Data Scientist Intern
     company_name: Telkom Indonesia
     company_url: ''
@@ -116,9 +112,8 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Evaluate churn prediction
+      - Demography analysis and prediction
   - position: Data Scientist Intern
     company_name: Algoritma Data Science Education Center
     company_url: ''
@@ -127,9 +122,9 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Sentiment analysis
+      - Text processing from students feedback (e.g. entity recognition)
+      - teaching assistant in python class
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -201,4 +196,4 @@ languages:
 
 ## About Me
 
-Max is a data scientist at the Detik Network. Her research interests include information retrieval, LLMs, NLP for good, and conversational system.
+Max is a data scientist at Detik Network (detik.com). Her research interests include information retrieval, LLMs, generative AI, NLP for good, and conversational system.
