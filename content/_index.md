@@ -35,9 +35,9 @@ sections:
       title: '📚 My Interest'
       subtitle: ''
       text: |-
-        Hi, I'm Max! I'm a data scientist in the Research & Data team at Detik Network. Interested in Data Science and have a strong skillset in python and data analytics, I also love to do research and apply that in industry. 
+        Hi, I’m Max! I’m a data scientist on the Research & Data team at Detik Network. I'm passionate about data science and have strong skills in Python and data analytics. I also love conducting research and applying it in industry.
         
-        Please reach out to collaborate 😃
+        Feel free to reach out for collaboration! 😃
     design:
       columns: '1'
   # - block: collection

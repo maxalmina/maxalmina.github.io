@@ -11,7 +11,7 @@ last_name: Kahfi
 
 # Status emoji
 status:
-  icon: 🇮🦉
+  icon: 🦉
 
 # Is this the primary user of the site?
 superuser: true
@@ -88,7 +88,7 @@ work:
     company_name: KG Media
     company_url: ''
     company_logo: ''
-    date_start: 2022-01-31
+    date_start: 2022-08-01
     date_end: 2025-03-31
     summary: |
       Responsibilities include:
@@ -205,4 +205,4 @@ languages:
 
 ## About Me
 
-Max is a data scientist at Detik Network (detik.com). Her research interests include information retrieval, LLMs, generative AI, NLP for good, and conversational system.
+Max is a data scientist at Detik Network (detik.com). Her research interests include information retrieval, large language models (LLMs), generative AI, NLP for social good, and conversational systems.
