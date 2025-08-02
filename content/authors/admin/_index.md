@@ -11,7 +11,7 @@ last_name: Kahfi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇮🦉
 
 # Is this the primary user of the site?
 superuser: true
@@ -35,16 +35,16 @@ profiles:
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/maxalmina
   - icon: brands/linkedin
     url: https://www.linkedin.com/maxalmina
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=YY7ALzYAAAAJ&hl=id
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-8765-2911
 
 interests:
   - Information Retrieval
@@ -53,8 +53,8 @@ interests:
 education:
   - area: Master's Degree in Computer Science
     institution: Universitas Indonesia
-    date_start: 2024-07-01
-    date_end: 2022-08-31
+    date_start: 2022-08-31
+    date_end: 2024-07-01
     summary: |
       GPA: 3.85/4.0
 
@@ -88,8 +88,18 @@ work:
     company_name: KG Media
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-31
+    date_end: 2025-03-31
+    summary: |
+      Responsibilities include:
+      - ML optimization for marketing
+      - Generative AI for journalism
+  - position: Data Analyst
+    company_name: KG Media
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-08
+    date_end: 2022-08-31
     summary: |
       Responsibilities include:
       - ML optimization for marketing
@@ -98,8 +108,8 @@ work:
     company_name: Qasir
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-11-01
+    date_end: 2021-01-07
     summary: |
       Responsibilities include:
       - Build basic data pipelines from multiple resources
@@ -107,8 +117,8 @@ work:
     company_name: Telkom Indonesia
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-01
+    date_end: 2020-07-31
     summary: |
       Responsibilities include:
       - Evaluate churn prediction
@@ -117,8 +127,8 @@ work:
     company_name: Algoritma Data Science Education Center
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-05-01
+    date_end: 2019-08-31
     summary: |
       Responsibilities include:
       - Sentiment analysis
