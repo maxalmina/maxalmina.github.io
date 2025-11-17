@@ -4,8 +4,8 @@ title: Optimization back propagation algorithm with feature engineering to predi
 authors:
 - Ichwanul Muslim Karo Karo
 - Fikhri Masri
+- Nuurshadieq
 - Maxalmina Satria Kahfi
-- ' others'
 date: '2020-01-01'
 publishDate: '2025-11-17T02:26:47.688827Z'
 publication_types:
