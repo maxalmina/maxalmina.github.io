@@ -54,11 +54,11 @@ sections:
   #     columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: My Publications
       text: ''
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       view: citation
