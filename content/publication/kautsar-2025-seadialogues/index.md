@@ -11,6 +11,11 @@ authors:
 - Peerat Limkonchotiwat
 - Ekapol Chuangsuwanich
 - Genta Indra Winata
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2025-01-01'
 publishDate: '2025-11-17T02:26:47.716891Z'
 publication_types:
