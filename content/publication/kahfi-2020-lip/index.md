@@ -2,10 +2,9 @@
 title: Lip Motion Recognition for Indonesian Vowel Phonemes Using 3D Convolutional
   Neural Networks
 authors:
-- Satria Kahfi
+- Maxalmina Satria Kahfi
 - Kurniawan Nur Ramadhani
 - Anditya Arifianto
-- ' others'
 date: '2020-01-01'
 publishDate: '2025-11-17T02:26:47.697505Z'
 publication_types:
