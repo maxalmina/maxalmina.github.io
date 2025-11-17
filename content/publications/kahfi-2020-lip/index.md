@@ -14,7 +14,7 @@ abstract: Lip motion recognition is a technique for interpreting visual data tha
 tags:
 - Computer Vision
 - Convolutional Neural Networks
-links:
-- type: pdf
-  url: https://thesai.org/Downloads/Volume14No11/Paper_124-Incorporating_News_Tags_into_Neural_News_Recommendation.pdf
+hugoblox:
+  ids:
+    doi: 10.1109/IC2IE50715.2020.9274562
 ---

@@ -12,9 +12,6 @@ abstract: The news recommendation system has the potential to help users discove
 tags:
 - Recommender Systems
 - Information Retrieval
-links:
-- type: pdf
-  url: ""
 - type: source
   url: https://www.authorea.com/doi/full/10.22541/au.175214356.69747793
 ---

@@ -29,9 +29,8 @@ hugoblox:
   ids:
     arxiv: 2508.07069
 links:
-- type: preprint
-  provider: arxiv
-  id: 2508.07069
+- type: pdf
+  url: https://arxiv.org/pdf/2508.07069
 - type: code
   url: https://github.com/SEACrowd/SEADialogues
 - type: dataset

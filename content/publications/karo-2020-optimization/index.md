@@ -18,7 +18,4 @@ tags:
 hugoblox:
   ids:
     doi: 10.1109/ICELTICs50595.2020.9315544
-links:
-- type: pdf
-  url: https://thesai.org/Downloads/Volume14No11/Paper_124-Incorporating_News_Tags_into_Neural_News_Recommendation.pdf
 ---

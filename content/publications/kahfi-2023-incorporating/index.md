@@ -13,6 +13,9 @@ abstract: News recommendation system holds the potential to aid users in discove
 tags:
 - Recommender Systems
 - Information Retrieval
+hugoblox:
+  ids:
+    doi: https://doi.org/10.14569/IJACSA.2023.01411124
 links:
 - type: pdf
   url: https://thesai.org/Downloads/Volume14No11/Paper_124-Incorporating_News_Tags_into_Neural_News_Recommendation.pdf
