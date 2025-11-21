@@ -6,7 +6,7 @@ title: Maxalmina Satria Kahfi
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Maxalmina
+first_name: Maxalmina Satria
 last_name: Kahfi
 
 # Pronouns (optional)
